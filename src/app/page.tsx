@@ -1,4 +1,4 @@
-import Transaction from "./Transaction";
+import Transaction from "../components/Transaction";
 
 export default function Home() {
   return (
